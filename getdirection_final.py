@@ -12,7 +12,7 @@ import datetime
 import time
 import requests
 import os
-# Get the user's profile directory
+# Get the user's profile directory test git
 user_profile = os.path.expanduser("~")
 config_file_path = os.path.join(user_profile, "teleconfig.json")
 
